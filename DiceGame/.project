@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>DiceGame</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/webapp/images/dice1.png</name>
+			<type>1</type>
+			<location>C:/Users/Freeware Sys/Desktop/images/dice1.png</location>
+		</link>
+		<link>
+			<name>src/main/webapp/images/dice2.png</name>
+			<type>1</type>
+			<location>C:/Users/Freeware Sys/Desktop/images/dice2.png</location>
+		</link>
+		<link>
+			<name>src/main/webapp/images/dice3.png</name>
+			<type>1</type>
+			<location>C:/Users/Freeware Sys/Desktop/images/dice3.png</location>
+		</link>
+		<link>
+			<name>src/main/webapp/images/dice4.png</name>
+			<type>1</type>
+			<location>C:/Users/Freeware Sys/Desktop/images/dice4.png</location>
+		</link>
+		<link>
+			<name>src/main/webapp/images/dice5.png</name>
+			<type>1</type>
+			<location>C:/Users/Freeware Sys/Desktop/images/dice5.png</location>
+		</link>
+		<link>
+			<name>src/main/webapp/images/dice6.png</name>
+			<type>1</type>
+			<location>C:/Users/Freeware Sys/Desktop/images/dice6.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
